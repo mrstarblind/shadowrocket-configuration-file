@@ -1,4 +1,4 @@
-# Количество доменов: 477
+# Количество доменов: 495
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.to
@@ -21,9 +21,12 @@ DOMAIN-SUFFIX,aftermarket.zf.com
 DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,agentura.ru
 DOMAIN-SUFFIX,alberta.ca
+DOMAIN-SUFFIX,allthefallen.moe
 DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,anilibria.tv
+DOMAIN-SUFFIX,animego.me
+DOMAIN-SUFFIX,animego.online
 DOMAIN-SUFFIX,animestars.org
 DOMAIN-SUFFIX,ansys.com
 DOMAIN-SUFFIX,antizapret.prostovpn.org
@@ -53,6 +56,7 @@ DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,auth.grazie.ai
 DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,babepedia.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
@@ -91,6 +95,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.cisco.com
+DOMAIN-SUFFIX,coomer.st
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,crunchyroll.com
@@ -124,15 +129,18 @@ DOMAIN-SUFFIX,download.qt.io
 DOMAIN-SUFFIX,download.screamingfrog.co.uk
 DOMAIN-SUFFIX,download.wetransfer.com
 DOMAIN-SUFFIX,doxajournal.ru
+DOMAIN-SUFFIX,dreamerscast.com
 DOMAIN-SUFFIX,dual-a-0001.a-msedge.net
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,e1v-h.phncdn.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,egbo.com
 DOMAIN-SUFFIX,ehorussia.com
 DOMAIN-SUFFIX,ej.ru
 DOMAIN-SUFFIX,envato.com
 DOMAIN-SUFFIX,epg.one
+DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,eu-iot-prod.aws.tcljd.com
 DOMAIN-SUFFIX,euronews.com
@@ -153,6 +161,7 @@ DOMAIN-SUFFIX,fork.pet
 DOMAIN-SUFFIX,forklog.com
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,forum.voynaplemyon.com
+DOMAIN-SUFFIX,fosshub.com
 DOMAIN-SUFFIX,freecodecamp.org
 DOMAIN-SUFFIX,fw-download.ubnt.com
 DOMAIN-SUFFIX,fw-update.ubnt.com
@@ -179,6 +188,8 @@ DOMAIN-SUFFIX,hd.zetfix.online
 DOMAIN-SUFFIX,hdkinoteatr.com
 DOMAIN-SUFFIX,hdrezka.fm
 DOMAIN-SUFFIX,helm.releases.hashicorp.com
+DOMAIN-SUFFIX,hentaigem.com
+DOMAIN-SUFFIX,hentaiz.org
 DOMAIN-SUFFIX,holod.global.ssl.fastly.net
 DOMAIN-SUFFIX,holod.media
 DOMAIN-SUFFIX,honeywell.com
@@ -216,6 +227,7 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lib.rus.ec
 DOMAIN-SUFFIX,libgen.rs
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,linktr.ee
 DOMAIN-SUFFIX,linuxiac.com
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,login.amd.com
@@ -255,6 +267,7 @@ DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,news.google.com
 DOMAIN-SUFFIX,newstudio.tv
 DOMAIN-SUFFIX,newtimes.ru
+DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nordvpn.com
@@ -328,6 +341,7 @@ DOMAIN-SUFFIX,ru.depositphotos.com
 DOMAIN-SUFFIX,ru.euronews.com
 DOMAIN-SUFFIX,ru.iherb.com
 DOMAIN-SUFFIX,ru.krymr.com
+DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rus-media.org
 DOMAIN-SUFFIX,rus.delfi.lv
 DOMAIN-SUFFIX,rustorka.com
@@ -348,6 +362,7 @@ DOMAIN-SUFFIX,semnasem.org
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serpstat.com
 DOMAIN-SUFFIX,siemens-home.bsh-group.com
+DOMAIN-SUFFIX,simpcity.cr
 DOMAIN-SUFFIX,singlekey-id.com
 DOMAIN-SUFFIX,skladchik.com
 DOMAIN-SUFFIX,skyscanner.com
@@ -358,6 +373,8 @@ DOMAIN-SUFFIX,sobesednik.ru
 DOMAIN-SUFFIX,software.cisco.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,sp.freehat.cc
+DOMAIN-SUFFIX,sp-fun.ru
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,st.kinovod.net
 DOMAIN-SUFFIX,static-ss.xvideos-cdn.com
@@ -466,6 +483,7 @@ DOMAIN-SUFFIX,xerox.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yeggi.com
 DOMAIN-SUFFIX,youtu.be
@@ -476,3 +494,4 @@ DOMAIN-SUFFIX,zimbra.org
 DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zohomail.com
 DOMAIN-SUFFIX,zona.media
+
