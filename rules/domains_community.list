@@ -23,7 +23,6 @@ DOMAIN-KEYWORD,threads
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tronlink
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,linktr
 # youtube
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -160,4 +159,4 @@ DOMAIN-SUFFIX,simpcity.cr
 DOMAIN-SUFFIX,fosshub.com
 DOMAIN-SUFFIX,sp.freehat.cc
 DOMAIN-SUFFIX,sp-fun.ru
-DOMAIN-SUFFIX,linktr.ee
+DOMAIN-KEYWORD,linktr
